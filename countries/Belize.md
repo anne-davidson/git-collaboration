@@ -1,6 +1,6 @@
 ##Belize
 ## population
-347,369 million
+347,369 m
 
 
 ## capital
